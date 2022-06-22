@@ -1,7 +1,8 @@
 ## Hi, I am Chris, aka Spudnut200! 
 ### About me
 **My website:** [HexStudios.co](https://hexstudios.co)
-**HexStudios Github:** [Github](https://github.com/HexStudios)
+<br>
+<p>**MOST OF MY PROJECTS ARE ON [THIS GITHUB PAGE](https://github.com/HexStudios)</p>
 
 ### Socials
 Youtube: [youtube.com/hexstudios](https://youtube.com/hexstudios/)
