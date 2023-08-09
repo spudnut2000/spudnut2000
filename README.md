@@ -2,7 +2,7 @@
 ### About me
 **My website:** [HexStudios.co](https://hexstudios.co)
 <br>
-<p>**MOST OF MY PROJECTS ARE ON [THIS GITHUB PAGE](https://github.com/HexStudios)</p>
+<p>**Owner of the [Hex Studios Github](https://github.com/HexStudios) page.</p>
 
 ### Socials
 Youtube: [youtube.com/hexstudios](https://youtube.com/hexstudios/)
